@@ -34,6 +34,7 @@ cypress/
 │   ├── commands.js         # Comandos customizados do Cypress
 │   └── e2e.js              # Configurações globais de suporte
 └── cypress.config.js       # Configurações do Cypress
+```
 
 ## 🛠️ Tecnologias Utilizadas
  *Node.js

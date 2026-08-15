@@ -1,89 +1,46 @@
-# 🧪 Automação E2E com Cypress - SauceDemo
+# Portfólio de QA & Automação de Testes | Vladimir Macedo
 
-Este repositório contém o projeto de automação de testes End-to-End (E2E) desenvolvido com **Cypress**, cobrindo os principais fluxos do e-commerce [SauceDemo](https://www.saucedemo.com/).
+Bem-vindo(a) ao repositório do meu portfólio profissional! Este projeto é uma vitrine dos meus projetos, estudos e experiências na área de **Garantia de Qualidade (QA)** e **Automação de Testes de Software**.
 
-O projeto utiliza o padrão de arquitetura **Page Object Model (POM)** para garantir a reusabilidade de código, organização dos seletores e fácil manutenção dos testes.
-
----
-
-## 📌 Funcionalidades Testadas
-
-* **Login:** Autenticação na aplicação.
-* **Produtos:** 
-  * Validação da listagem de itens.
-  * Adição de produtos ao carrinho.
-  * Ordenação de produtos por preço e nome.
-  * Navegação para o carrinho de compras.
+🔗 **Acesse o portfólio online:** [vladimir-macedo.github.io](https://vladimir-macedo.github.io)
 
 ---
 
-## 🏗️ Estrutura do Projeto (Page Object Model)
+##  Sobre Mim
 
-```text
-cypress/
-├── e2e/
-│   └── chekout.cy.js       # Suíte de testes de adição de produtos no carrinho de compras
-│   └── login.cy.js         # Suíte de testes de login 
-│   └── products.cy.js      # Suíte de testes de produtos
-├── pages/
-│   └── CartPage.js         # Mapeamento de elementos e métodos da página de carrinho
-│   └── CheckoutPage.js     # Mapeamento de elementos e métodos da página de chekout
-│   └── LoginPage.js        # Mapeamento de elementos e métodos da página de login
-│   └── ProductsPage.js     # Mapeamento de elementos e métodos da página de produtos
-├── support/
-│   ├── commands.js         # Comandos customizados do Cypress
-│   └── e2e.js              # Configurações globais de suporte
-└── cypress.config.js       # Configurações do Cypress
-```
----
+Sou analista de QA focado em garantir a entrega de software de alta qualidade através de testes manuais e automatizados. Tenho experiência no desenvolvimento de suítes de testes End-to-End (E2E), testes de API, e aplicação de boas práticas de arquitetura de testes como **Page Object Model (POM)**.
 
-## 🛠️ Tecnologias Utilizadas
- * **Node.js**
- * **Cypress**
- * **JavaScript**
- 
----
-
-## 🚀 Como Executar o Projeto
-
-**Pré-requisitos**
-Antes de começar, você precisará ter o Node.js e o Git instalados na sua máquina.
-
-## Passos para execução
-* 1 Clone este repositório:
-
-  git clone [https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git)
-
-* 2 Acesse a pasta do projeto:
-
-  Bash - 
-   cd cypress-saucedemo-automation
-
-* 3 Instale as dependências do projeto:
-
-  Bash - 
-   npm install
-
-* 4 Execute os testes:
-
-  * Interface Gráfica (Interactive Mode):
-   
-     Bash - 
-      npx cypress open
-
-  * Modo Headless (Terminal):
-
-    Bash - 
-     npx cypress run
+*  **Foco atual:** Automação Web e API com Cypress e JavaScript.
+*  **Objetivo:** Criar estratégias de testes eficientes que reduzam o esforço de regressão e aumentem a confiabilidade do código.
 
 ---
 
-## ✒️ Autor
-Desenvolvido por Vladimir Macedo 👋
+## 🛠️ Tecnologias & Ferramentas
 
-Sinta-se à vontade para entrar em contato ou conectar no LinkedIn
-Sinta-se à vontade para entrar em contato ou conectar no [LinkedIn](https://www.linkedin.com/in/vladimir-macedo/)!
+| Categoria | Ferramentas / Tecnologias |
+| :--- | :--- |
+| **Automação & Testes** | Cypress, JavaScript, Node.js |
+| **Arquitetura & Boas Práticas** | Page Object Model (POM), Clean Code |
+| **Controle de Versão** | Git, GitHub, GitHub Actions / Pages |
+| **Desenvolvimento Web** | HTML5, CSS3, JavaScript |
 
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧪 [01. Automação Web - SauceDemo](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation)
+Projeto de automação E2E cobrindo os fluxos críticos de e-commerce (Login, Seleção de Produtos, Carrinho e Checkout) utilizando **Cypress** e **Page Object Model**.
+* **Tecnologias:** Cypress, JavaScript, Node.js.
+* **Repositório:** [cypress-saucedemo-automation](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation)
+
+---
+
+## 📬 Vamos nos conectar?
+
+Sinta-se à vontade para explorar os repositórios, abrir *issues* ou entrar em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-macedo/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vladimir-Macedo)
 
+---
+*Desenvolvido por Vladimir Macedo 👋*

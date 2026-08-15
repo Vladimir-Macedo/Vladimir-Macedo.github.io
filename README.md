@@ -26,16 +26,16 @@ Sou analista de QA focado em garantir a entrega de software de alta qualidade at
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🧪 [01. Automação Web - SauceDemo](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation)
+###  [01. Automação Web - SauceDemo](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation)
 Projeto de automação E2E cobrindo os fluxos críticos de e-commerce (Login, Seleção de Produtos, Carrinho e Checkout) utilizando **Cypress** e **Page Object Model**.
 * **Tecnologias:** Cypress, JavaScript, Node.js.
 * **Repositório:** [cypress-saucedemo-automation](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation)
 
 ---
 
-## 📬 Vamos nos conectar?
+##  Vamos nos conectar?
 
 Sinta-se à vontade para explorar os repositórios, abrir *issues* ou entrar em contato:
 

@@ -52,29 +52,29 @@ Antes de começar, você precisará ter o Node.js e o Git instalados na sua máq
 ## Passos para execução
 * 1 Clone este repositório:
 
-git clone [https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git)
+  git clone [https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git)
 
 * 2 Acesse a pasta do projeto:
 
-Bash - 
-cd cypress-saucedemo-automation
+ Bash - 
+  cd cypress-saucedemo-automation
 
 * 3 Instale as dependências do projeto:
 
 Bash - 
-npm install
+ npm install
 
 * 4 Execute os testes:
 
- * Interface Gráfica (Interactive Mode):
-
-Bash - 
-npx cypress open
+  * Interface Gráfica (Interactive Mode):
+   
+  Bash - 
+   npx cypress open
 
 * Modo Headless (Terminal):
 
-Bash - 
-npx cypress run
+  Bash - 
+   npx cypress run
 
 ---
 
@@ -83,5 +83,7 @@ Desenvolvido por Vladimir Macedo 👋
 
 Sinta-se à vontade para entrar em contato ou conectar no LinkedIn
 Sinta-se à vontade para entrar em contato ou conectar no [LinkedIn](https://www.linkedin.com/in/vladimir-macedo/)!
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-macedo/)
 

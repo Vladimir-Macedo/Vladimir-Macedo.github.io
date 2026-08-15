@@ -56,25 +56,25 @@ Antes de começar, você precisará ter o Node.js e o Git instalados na sua máq
 
 * 2 Acesse a pasta do projeto:
 
- Bash - 
-  cd cypress-saucedemo-automation
+  Bash - 
+   cd cypress-saucedemo-automation
 
 * 3 Instale as dependências do projeto:
 
-Bash - 
- npm install
+  Bash - 
+   npm install
 
 * 4 Execute os testes:
 
   * Interface Gráfica (Interactive Mode):
    
-  Bash - 
-   npx cypress open
+     Bash - 
+      npx cypress open
 
-* Modo Headless (Terminal):
+  * Modo Headless (Terminal):
 
-  Bash - 
-   npx cypress run
+    Bash - 
+     npx cypress run
 
 ---
 

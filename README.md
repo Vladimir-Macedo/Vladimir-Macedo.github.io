@@ -35,7 +35,7 @@ cypress/
 │   └── e2e.js              # Configurações globais de suporte
 └── cypress.config.js       # Configurações do Cypress
 ```
-
+---
 ## 🛠️ Tecnologias Utilizadas
  *Node.js
  *Cypress
@@ -76,3 +76,4 @@ npx cypress run
 Desenvolvido por Vladimir Macedo 👋
 
 Sinta-se à vontade para entrar em contato ou conectar no LinkedIn!
+---

@@ -36,31 +36,35 @@ cypress/
 └── cypress.config.js       # Configurações do Cypress
 ```
 ---
-## 🛠️ Tecnologias Utilizadas
- *Node.js
- *Cypress
- *JavaScript
 
-#🚀 Como Executar o Projeto
-Pré-requisitos
+## 🛠️ Tecnologias Utilizadas
+ * **Node.js**
+ * **Cypress**
+ * **JavaScript**
+ 
+---
+
+## 🚀 Como Executar o Projeto
+
+**Pré-requisitos**
 Antes de começar, você precisará ter o Node.js e o Git instalados na sua máquina.
 
-##Passos para execução
-*1 Clone este repositório:
+## Passos para execução
+* 1 Clone este repositório:
 
 git clone [https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git](https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git)
 
-*2 Acesse a pasta do projeto:
+* 2 Acesse a pasta do projeto:
 
 Bash
 cd cypress-saucedemo-automation
 
-*3 Instale as dependências do projeto:
+* 3 Instale as dependências do projeto:
 
 Bash
 npm install
 
-*4 Execute os testes:
+* 4 Execute os testes:
 
  *Interface Gráfica (Interactive Mode):
 
@@ -72,8 +76,10 @@ npx cypress open
 Bash
 npx cypress run
 
-#✒️ Autor
+---
+
+## ✒️ Autor
 Desenvolvido por Vladimir Macedo 👋
 
 Sinta-se à vontade para entrar em contato ou conectar no LinkedIn!
----
+

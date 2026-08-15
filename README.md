@@ -56,24 +56,24 @@ git clone [https://github.com/Vladimir-Macedo/cypress-saucedemo-automation.git](
 
 * 2 Acesse a pasta do projeto:
 
-Bash
+Bash - 
 cd cypress-saucedemo-automation
 
 * 3 Instale as dependências do projeto:
 
-Bash
+Bash - 
 npm install
 
 * 4 Execute os testes:
 
- *Interface Gráfica (Interactive Mode):
+ * Interface Gráfica (Interactive Mode):
 
-Bash
+Bash - 
 npx cypress open
 
- *Modo Headless (Terminal):
+* Modo Headless (Terminal):
 
-Bash
+Bash - 
 npx cypress run
 
 ---
@@ -81,5 +81,7 @@ npx cypress run
 ## ✒️ Autor
 Desenvolvido por Vladimir Macedo 👋
 
-Sinta-se à vontade para entrar em contato ou conectar no LinkedIn!
+Sinta-se à vontade para entrar em contato ou conectar no LinkedIn
+Sinta-se à vontade para entrar em contato ou conectar no [LinkedIn](https://www.linkedin.com/in/vladimir-macedo/)!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-macedo/)
 
